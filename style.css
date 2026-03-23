@@ -1,0 +1,42 @@
+table{
+    width: 90%;
+    height:100vh;
+    margin: auto;
+
+}
+
+td{
+    width :5%;
+    height: 8vh;
+
+}
+.border{
+    border: solid;
+    text-align: center;
+}
+
+*{  
+    box-sizing: border-box;
+    margin: 0;
+
+}
+.legenda{margin-top: 25px;
+
+}
+.cor{width: 25px;
+    height: 25px;
+    display: inline-block;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+.item{display: inline-block;}
+.naometais{background-color: chartreuse;}
+.metaisalcalinos{background-color: goldenrod}
+.semimetais{background-color: lightseagreen;}
+.outrosmetais{background-color: darkgrey;}
+.lantanideos{background-color: aquamarine;}
+.gasesnobres{background-color: dodgerblue;}
+.metaisalcalinoterrosos{background-color: yellow;}
+.halogenios{background-color: aqua;}
+.metaisdetransicao{background-color: darksalmon;}
+.actinideos{background-color: violet;}
